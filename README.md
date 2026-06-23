@@ -1,42 +1,51 @@
-<h1>Hi There! I'm Livia Pin <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2> </h1>
+# Hi, I'm Livia Pin 👋
 
+**Software Engineer** with expertise in C# .NET backend development and full-stack web applications.  
+I build scalable APIs, data-driven systems, and AI-integrated products.
 
+---
 
-<div> 
-  <a href="https://instagram.com/liviamtp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/livia-maria-teixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## About me
 
+- 🌍 Based in Brazil
+- 🔧 Core expertise in **C# / .NET** — APIs, microservices, clean architecture
+- 🤖 Experienced integrating **LLM / AI agents** into production workflows
+- 📫 **[LinkedIn](https://linkedin.com/in/liviapin)** · liviamtp@hotmail.com
 
-##  Tech Stack
-<div style="display: inline_block"><br>
-  <img align="center" alt="Livia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Livia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Livia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Livia-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Livia-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Livia-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Livia-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Livia-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-</div>
-  
-  ##  GitHub Analytics
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liviapin&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+## Tech stack
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?username=liviapin"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?username=liviapin"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?username=liviapin"
-  />
-</picture>
+**Languages & Frameworks**
 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Data & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## GitHub stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=liviapin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviapin&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" />
+</p>
+
+---
 
