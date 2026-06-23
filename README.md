@@ -10,7 +10,7 @@ I build scalable APIs, data-driven systems, and AI-integrated products.
 - 🌍 Based in Brazil
 - 🔧 Core expertise in **C# / .NET** — APIs, microservices, clean architecture
 - 🤖 Experienced integrating **LLM / AI agents** into production workflows
-- 📫 **[LinkedIn](https://linkedin.com/in/liviapin)** · liviamtp@hotmail.com
+- 📫 **[LinkedIn]([https://linkedin.com/in/liviapin](https://www.linkedin.com/in/livia-maria-teixeira)** · liviamtp@hotmail.com
 
 ---
 
